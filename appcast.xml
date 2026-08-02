@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>YouSay</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sun, 02 Aug 2026 12:38:49 +0800</pubDate>
+            <sparkle:version>185</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CodeCodeWithMe/YouSay-Updates/releases/download/v1.0/YouSay-1.0.dmg" length="22602117" type="application/octet-stream" sparkle:edSignature="Exdl2Gk7WosVTOE5htlDMAvCGSAEBCGVqW1d48C3vMo35iF9FHpy68cL0O1qIqrk3EQzfUP7Xzpg5d9t7OztAQ=="/>
+        </item>
+    </channel>
+</rss>
