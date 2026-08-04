@@ -4,6 +4,14 @@
         <title>YouSay</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 04 Aug 2026 09:47:11 +0800</pubDate>
+            <sparkle:version>189</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CodeCodeWithMe/YouSay-Updates/releases/download/v1.0-b189/YouSay.dmg" length="22587073" type="application/octet-stream" sparkle:edSignature="XM8blxgCKzSQaxJkVYnHk2eQPC7DY0IteEfDvW3YxPJ2dVv5k/k7zNQ4zrQtzxVuNCT0FXRhDOw464ySO4NDDg=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Sun, 02 Aug 2026 12:38:49 +0800</pubDate>
             <sparkle:version>185</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
